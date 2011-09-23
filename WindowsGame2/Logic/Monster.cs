@@ -7,7 +7,7 @@ namespace Logic
 {
     public class Monster
     {
-
+        // 'это тестовый коментария для github
         #region Properties
 
         private int _idMonster;

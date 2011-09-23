@@ -7,6 +7,8 @@ namespace Logic
 {
     public class Map
     {
+        // 'это тестовый коментария для github
+
         private int _wight;
 
         public int Wight

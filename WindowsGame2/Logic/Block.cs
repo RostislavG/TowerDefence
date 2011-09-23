@@ -6,6 +6,8 @@ using System.Text;
 
 namespace Logic
 {
+    // 'это тестовый коментария для github
+
     public class Block
     {
         private Point _point;

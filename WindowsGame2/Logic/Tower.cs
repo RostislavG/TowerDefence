@@ -7,6 +7,8 @@ namespace Logic
 {
     public class Tower
     {
+        // 'это тестовый коментария для github
+
         #region Properties
 
         private string _name;
